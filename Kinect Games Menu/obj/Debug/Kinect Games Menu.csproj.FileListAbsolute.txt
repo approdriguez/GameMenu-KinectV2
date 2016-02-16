@@ -1,0 +1,2 @@
+c:\users\jesús\documents\visual studio 2013\Projects\Kinect Games Menu\Kinect Games Menu\bin\Debug\Kinect Games Menu.exe.config
+C:\Users\a\Downloads\Kinect Games Menu\Kinect Games Menu\bin\Debug\Kinect Games Menu.exe.config
